@@ -1,0 +1,7 @@
+filterStickers.xcodeproj/xcuserdata/
+filterStickers.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+filterStickers.xcodeproj/project.xcworkspace/xcuserdata/
